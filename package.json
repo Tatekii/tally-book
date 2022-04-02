@@ -8,6 +8,16 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@types/papaparse": "^5.3.2",
+    "autoprefixer": "^10.4.4",
+    "dayjs": "^1.11.0",
+    "element-plus": "^2.1.7",
+    "papaparse": "^5.3.2",
+    "postcss": "^8.4.12",
+    "sass": "^1.49.11",
+    "tailwindcss": "^3.0.23",
+    "unplugin-auto-import": "^0.6.9",
+    "unplugin-vue-components": "^0.18.5",
     "vue": "^3.2.25"
   },
   "devDependencies": {
